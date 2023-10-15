@@ -13,9 +13,8 @@ Shell script used to deploy
 
 ## DIP20 - Introduction
 
-Token standards are essential for the Internet Computer ecosystem, especially for the decentralized finance ecosystem (DeFi) system. In this token interface, we implemented an ERC-20 style token standard in both Motoko and Rust, the standard is named DIP20.
-
-This standard allows for a common and familiar interface that not only provides a quick entry point for existing blockchain developers, but future interoperability options between the Internet Computer and Ethereum, through the process of sustaining the same shared interfaces.
+Token standards are essential for the Internet Computer ecosystem, especially for the decentralized finance ecosystem (DeFi) system. 
+In this token interface, we implemented an ERC-20 style token standard in both Motoko and Rust, the standard is named DIP20.
 
 You can find the interface descriptions in the [specification file](./spec.md).
 
@@ -59,7 +58,6 @@ Refer to `demo.sh` in the corresponding sub directory for more details.
 
 ## WHAT IS:
 this is Tendies (ticker: Tendys) official git repo. this contians the codes, and methods to deploy and verify tendy token and its binaries. we have included early code and historical documentstion in the misc file. special thanks to Everyone whom helped bring tendys here. 
-
 
 
 
