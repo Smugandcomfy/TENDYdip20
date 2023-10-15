@@ -62,3 +62,17 @@ this is Tendies (ticker: Tendys) official git repo. this contians the codes, and
 
 
 
+
+
+some token info: 88,000 tendies
+
+locked liquidity:
+Burn Address NFTs: https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/holder/2d0e897f7e862d2b57d9bc9ea5c65f9a24ac6c074575f47898314b8d6cb0929d/nfts
+
+LP Locked by VP of Equality Diversity and Inclusion: https://info.icpswap.com/nft/view/4lnl6-hqaaa-aaaag-qblla-cai/1162
+
+Amount: 45 ICP/5.61k TENDY
+
+LP Locked by VP of Equality Diversity and Inclusion (part 2): https://info.icpswap.com/nft/view/4lnl6-hqaaa-aaaag-qblla-cai/1159
+
+(unverified amount): 21 ICP/1.3k TENDY (ICPSwap doesn't have a good way to verify amounts)
