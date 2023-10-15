@@ -1,3 +1,14 @@
+# TENDY
+
+WASM
+
+    ./motoko/.dfx/ic/canisters/token.wasm
+
+Shell script used to deploy
+
+    ./motoko/deploy_dip20.sh
+
+
 ![Group 5981 (1)](https://user-images.githubusercontent.com/73345016/144523306-f6041b24-bd34-4ecf-bc0f-6c96b0c24ca8.png)
 
 ## DIP20 - Introduction
