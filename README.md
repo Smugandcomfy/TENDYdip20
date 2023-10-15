@@ -57,7 +57,8 @@ Refer to `demo.sh` in the corresponding sub directory for more details.
 
 
 
-## Contributing
+## WHAT IS:
+this is Tendies (ticker: Tendys) official git repo. this contians the codes, and methods to deploy and verify tendy token and its binaries. we have included early code and historical documentstion in the misc file. special thanks to Everyone whom helped bring tendys here. 
 
-We'd like to collaborate with the community to provide better token standard implementation for the developers on the IC, if you have some ideas you'd like to discuss, submit an issue, if you want to improve the code or you made a different implementation, make a pull request!
+
 
