@@ -8,22 +8,12 @@ Shell script used to deploy
 
     ./motoko/deploy_dip20.sh
 
-
-![Group 5981 (1)](https://user-images.githubusercontent.com/73345016/144523306-f6041b24-bd34-4ecf-bc0f-6c96b0c24ca8.png)
-
-## DIP20 - Introduction
-
-Token standards are essential for the Internet Computer ecosystem, especially for the decentralized finance ecosystem (DeFi) system. 
-In this token interface, we implemented an ERC-20 style token standard in both Motoko and Rust, the standard is named DIP20.
-
-You can find the interface descriptions in the [specification file](./spec.md).
-
-[This branch](https://github.com/dfinance-tech/ic-token/tree/templates) contains code of several other token canister templates.
+Welcome to the offical $TENDY token and Peeco system git repository.
 
 
 ## Development
 
-You need the latest DFINITY Canister SDK to be able to build and deploy a token canister:
+You need the latest DFINITY Canister SDK to be able to build and deploy a tendy canister:
 
 ```shell
 sh -ci "$(curl -fsSL https://sdk.dfinity.org/install.sh)"
@@ -53,7 +43,6 @@ dfx canister install token --argument="(\"data:image/jpeg;base64,...\", \"DFinan
 ```
 
 Refer to `demo.sh` in the corresponding sub directory for more details.
-
 
 
 ## WHAT IS this git:
