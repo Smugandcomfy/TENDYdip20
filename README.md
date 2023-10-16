@@ -56,11 +56,13 @@ Refer to `demo.sh` in the corresponding sub directory for more details.
 
 
 
-## WHAT IS:
+## WHAT IS this git:
 this is Tendies (ticker: Tendys) official git repo. this contians the codes, and methods to deploy and verify tendy token and its binaries. we have included early code and historical documentstion in the misc file. special thanks to Everyone whom helped bring tendys here. 
 
-
-
+UPCOMMING EVENTS:
+-Blackholing of SPICYPEE [SPICE x7ixp-3iaaa-aaaag-qccha-cai] (staking reward token for Tendy and Icypees) canister. 
+-upgrading canister of tendy to icrc1 via voic method 
+-blackholing canister of tendy
 
 some token info: 88,000 tendies
 
