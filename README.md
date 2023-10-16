@@ -11,7 +11,8 @@ Shell script used to deploy
 Welcome to the offical $TENDY token and Peeco system git repository.
 
 
-## Development
+## Development notes
+RUN ONLY IN LOCAL THE .SH WILL DEPLOY A TENDY DIP20 token if properly executed
 
 You need the latest DFINITY Canister SDK to be able to build and deploy a tendy canister:
 
