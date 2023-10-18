@@ -47,12 +47,22 @@ Refer to `demo.sh` in the corresponding sub directory for more details.
 
 
 ## WHAT IS this git:
-this is Tendies (ticker: Tendys) official git repo. this contians the codes, and methods to deploy and verify tendy token and its binaries. we have included early code and historical documentstion in the misc file. special thanks to Everyone whom helped bring tendys here. 
+this is Tendies (ticker: Tendys) official git repo. this contains the codes, and methods to deploy and verify tendy token and its binaries.
 
-UPCOMMING EVENTS:
--Blackholing of SPICYPEE [SPICE x7ixp-3iaaa-aaaag-qccha-cai] (staking reward token for Tendy and Icypees) canister. 
--upgrading canister of tendy to icrc1 via voic method 
+we have included early code and historical documentstion in the misc file. special thanks to Everyone whom helped bring tendys here. 
+
+project notes:
+-SPICYPEE [SPICE x7ixp-3iaaa-aaaag-qccha-cai] (staking reward token for Tendy and Icypees) canister is blackholed with a total supply of 420,690,000.00 tokens
+
+-upgrading canister of tendy to icrc1 via voic method or maybe the Natlabs icrc1 standard upgrade
+
 -blackholing canister of tendy
+
+-MISC FILE: The misc file will contain historal codes and documents of the project includeing but not limited to:
+  -Dominics Stake House & Grille Palace Source Code
+  -Tendyverse Source code
+  -original dip20 file vp sent to b
+  -count pepulas art
 
 some token info: 88,000 tendies
 
