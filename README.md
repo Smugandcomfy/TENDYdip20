@@ -66,6 +66,7 @@ dfx canister install token --argument="(\"data:image/jpeg;base64,...\", \"DFinan
 
 Refer to `demo.sh` in the corresponding sub directory for more details.
 
+##Tokenomics
 
 
 locked liquidity:
