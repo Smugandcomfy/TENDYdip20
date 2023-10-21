@@ -68,6 +68,8 @@ Refer to `demo.sh` in the corresponding sub directory for more details.
 
 ##Tokenomics
 
+NSNS1 royalty LP Treasury:
+Royalties of SNS-1 Logo Drop NFT are now set to this address: ed181f2eba0c6593b48bd92a21b46d9103e820781ea90e38ca484e6d96854731
 
 locked liquidity:
 Burn Address NFTs: https://t5t44-naaaa-aaaah-qcutq-cai.raw.ic0.app/holder/2d0e897f7e862d2b57d9bc9ea5c65f9a24ac6c074575f47898314b8d6cb0929d/nfts
